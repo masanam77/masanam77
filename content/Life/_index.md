@@ -1,5 +1,5 @@
 ---
 title: "Life"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "各高校の活動状況についてお知らせします。"
 featured_image: "/images/DSCF0367.jpg"
 ---

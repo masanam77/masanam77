@@ -1,5 +1,5 @@
-baseURL = "https://masanam77.github.io/shiba.labo"
-title = "Shiba.Labo"
+baseURL = "https://masanam77.github.io/ndttc.nt"
+title = "高体連新潟地区卓球専門部"
 theme = "ananke"
 languageCode = "ja-jp"
 summarylength = 100
@@ -7,31 +7,31 @@ publishDir = "docs"
 canonifyurls = true
 draft = false
 
-SEOTitle = "楽しみだね"
+SEOTitle = "正式なHPができるまでの臨時連絡板です。"
 
-slogan = "ささやかに暮らす"
+slogan = "期間限定版です"
 
-description = "artとか文学とか漫画とかそのあたり書きます"
+description = "期間を限定して公開します。"
 
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 #enableRobotsTXT = true
-disqusShortname = "shiba-labo"
+disqusShortname = "ndttc"
 
 [outputs]
     page = [ "HTML" , "AMP"  ]
 
 [params.social]
-  facebook      = "full profile url in facebook"
+  #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   email         = "shibamac@me.com"
-  twitter       = "full profile url in twitter"
+  #twitter       = "full profile url in twitter"
 
 [params]
-slogan = "ささやかに暮らす"
-description = "artとか文学とか漫画とかそのあたり書きます"
-author = "shibawan"
+slogan = "公開情報のみお知らせします。"
+description = "期間限定版です。大会前などのみに公開します。"
+author = "新潟地区地区代表"
 #authorLink = ""
 #bio = ["年とってから美術の勉強中"]
 copyright = ["&copy; 2021 shiba","Nederburg Hugo Theme by [Appernetic]().","A port of Tracks by Compete Themes."]
