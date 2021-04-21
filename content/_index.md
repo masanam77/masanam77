@@ -7,4 +7,3 @@ description: "新潟地区卓球専門部用連絡サイトです。昨年度ま
 
 共有ファイルへ移動
 [新潟地区共有用google.drive](https://drive.google.com/drive/folders/1-em1UO2QYqDjGyVk4uysvBYTzM4ASym9?usp=sharing)
-[box.net](https://app.box.com/s/ongd543vmhp5y0t63pu4rf442np29t7b"box.netへ移動")
