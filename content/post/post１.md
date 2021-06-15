@@ -7,6 +7,6 @@ description: ""
 author: ["新潟地区卓球専門部"]
 image:  ""
 categories:  ["大会情報" ]
-menu : main
+menu : ""
 ---
 R3春季新潟地区卓球大会・「補助役員用参加申請書（複数人用）」を共有ドライブにアップしました。
