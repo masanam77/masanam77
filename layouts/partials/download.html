@@ -1,0 +1,4 @@
+{{ if .Params.download_link }}
+  <p><a href="{{ .Params.download_link }}">Download File</a></p>
+{{ end }}
+<a href="{{ .Page.Resources.GetMatch "<images/lemon.txt>" | absURL }}" download>ダウンロード</a>

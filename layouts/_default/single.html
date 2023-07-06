@@ -62,5 +62,10 @@
       {{- partial "menu-contextual.html" . -}}
     </aside>
 
+    <h1>{{ .Title }}</h1>
+    {{ .Content }}
+    {{ partial "download.html" . }}
+
   </article>
+
 {{ end }}
